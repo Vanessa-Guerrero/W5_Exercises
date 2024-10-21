@@ -1,4 +1,4 @@
-customer_id = 1 #int
+customer_id = '1' #string
 customer_name = ' Mary Jane Doe' #string
 gender = 'female' #string
 dob = '1/1/1990' #string
