@@ -1,0 +1,2 @@
+# Define known values
+assets = 
