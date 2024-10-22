@@ -9,4 +9,4 @@ pi = math.pi
 area_of_circle = pi * radius ** 2
 
 # Display the results
-print("The area of a circle with radius " + str(radius) + " is " + ('{:.2f}'.format(area_of_circle)))
+print("The area of a circle with radius " + str(radius) + " is " + format(area_of_circle, ".2f"))
