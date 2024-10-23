@@ -9,4 +9,4 @@ width = 8
 area_of_rectangle = length * width
 
 # Display the results
-print("The area of the rectangle is " + str(area_of_rectangle))
+print(f"The area of the rectangle is {area_of_rectangle}")          # Bonus 2
