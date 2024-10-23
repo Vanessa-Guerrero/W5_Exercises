@@ -1,7 +1,7 @@
 # Question 1. How do you convert a temperature from Fahrenheit to Celsius?
 
-Farenheit = int(input('What is the temperature in Farenheit? '))
+Celsius = int(input('What is the temperature in Celsius? '))
 
-Celsius = round((5/9) * (Farenheit - 32))
+Farenheit = round((9/5) * Celsius + 32)
 
 print('The temperature converted to Celsius is ' + str(Celsius))
