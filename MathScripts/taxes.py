@@ -5,4 +5,4 @@ salary = int(input('What is your monthly gross salary? $'))
 
 taxes = (salary * .23)
 
-print('The amount of taxes withheld from your monthly salary is $' + format(taxes, ".2f"))
+print(f"The amount of taxes withheld from your monthly salary is $ {taxes:,.2f}")
