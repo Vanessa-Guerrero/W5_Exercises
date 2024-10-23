@@ -1,4 +1,5 @@
-# Question 4. How do you calculate the area of a circle?
+# Question 5. How long will it take a savings account worth X to double in value based on an interest rate of IR? (Hint: Look up the rule of 72)?
+
 
 
 interest_rate = .08
