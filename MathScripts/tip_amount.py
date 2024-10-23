@@ -1,3 +1,6 @@
+# Question 4. How do you calculate the area of a circle?
+
+
 # Define known values
 food_cost = 55
 tip_perc = .20

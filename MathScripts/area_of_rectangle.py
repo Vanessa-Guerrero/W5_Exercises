@@ -1,3 +1,6 @@
+# Question 2. How do you calculate the area of a rectangle?
+
+
 # Define known values
 length = 5
 width = 8

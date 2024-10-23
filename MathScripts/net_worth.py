@@ -1,3 +1,6 @@
+# Question 4. How do you calculate the area of a circle?
+
+
 # Define known values
 assets = 1500
 debts = 450.50
