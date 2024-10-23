@@ -1,5 +1,4 @@
-# Question 4. How do you calculate the area of a circle?
-
+# Question 3. How do you calculate the tip amount on a restaurant bill given the tip percentage?
 
 # Define known values
 food_cost = 55
