@@ -1,3 +1,6 @@
+# Question 4. How do you calculate the area of a circle?
+
+
 # Importing math module to use the math.pi constant for pi
 import math
 
